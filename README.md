@@ -25,6 +25,8 @@ Feel free to reach out to me
 - Instagram - https://instagram.com/the_chroniclesjr
 - LinkedIn - https://instagram.com/the_chroniclesjr
 
+## Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-chronicles)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
