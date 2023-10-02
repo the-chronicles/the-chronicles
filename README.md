@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Oluwaseun Akeredolu 
 
 Hi there, I am Oluwaseun, a frontend web developer and mobile developer with experience in HTML, CSS, JavaScript, BootStrap, React, and React Native.
 
