@@ -34,8 +34,7 @@ Feel free to reach out to me
 
 ## Stats
 [![Oluwaseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-chronicles)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=the-chronicles)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=the-chronicles)](https://git.io/streak-stats)
 <!--
 **the-chronicles/the-chronicles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
