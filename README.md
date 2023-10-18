@@ -24,7 +24,7 @@ I am a passionate web and mobile app developer with a creative approach to probl
 
 ## Projects
 ## 1. A Landing Page
-Live link: allied-elites.oluwaseunakered.repl.co
+Live link: [allied-elites.oluwaseunakered.repl.co](https://allied-elites.oluwaseunakered.repl.co/)
 
 ## Contact
 Feel free to reach out to me 
