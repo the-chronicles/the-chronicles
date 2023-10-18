@@ -23,7 +23,8 @@ I am a passionate web and mobile app developer with a creative approach to probl
 [![trophy](https://github-profile-trophy.vercel.app/?username=the-chronicles)](https://github.com/ryo-ma/github-profile-trophy)  -->
 
 ## Projects
-Coming Soon...
+## 1. A Landing Page
+Live link: allied-elites.oluwaseunakered.repl.co
 
 ## Contact
 Feel free to reach out to me 
