@@ -14,6 +14,7 @@ I am a passionate web and mobile app developer with a creative approach to probl
   <li>Javascript</li>
   <li>React.JS</li>
   <li>React Native</li>
+  <li>Node.Js</li>
 </ul>
 
 <!---
