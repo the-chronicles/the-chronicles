@@ -12,6 +12,7 @@ I am a passionate web and mobile app developer with a creative approach to probl
   <li>BootStrap</li>
   <li>Tailwind CSS</li>
   <li>Javascript</li>
+  <li>Typescript</li>
   <li>React.JS</li>
   <li>React Native</li>
   <li>Node.Js</li>
